@@ -2,4 +2,5 @@
 
 Public privacy policies for apps and projects maintained by Liangbin Zhao.
 
-- [Friend Atlas Privacy Policy](friend-atlas/privacy-policy/)
+- [Mappamory Privacy Policy](mappamory/privacy-policy/)
+- [Mappamory Support](mappamory/support/)

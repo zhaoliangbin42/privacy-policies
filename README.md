@@ -6,4 +6,5 @@ Each app has its own policy page so App Store Connect, TestFlight, and product w
 
 ## Apps
 
-- [Friend Atlas](friend-atlas/privacy-policy/)
+- [Mappamory Privacy Policy](mappamory/privacy-policy/)
+- [Mappamory Support](mappamory/support/)
