@@ -1,6 +1,6 @@
 # Mappamory Privacy Policy
 
-Last updated: May 13, 2026
+Last updated: October 14, 2026
 
 Mappamory is a private map app for recording important people, shared memories, places, photos, and related personal notes.
 
@@ -36,11 +36,17 @@ If you export a backup file, you control where that file is saved or shared thro
 
 Mappamory may use Apple system services and frameworks to provide app functionality, including:
 
-- Apple Maps and location-related services for map display, place search, and place selection.
+- Apple Maps and location-related services for Classic maps, place search, and place selection.
 - The Photos and file picker experiences when you choose photos or backup files.
 - TestFlight during beta testing.
 
 Apple may process information according to Apple's own privacy policies when you use Apple services, TestFlight, App Store, iCloud, diagnostics, or system-level features.
+
+## Mapbox Map Styles
+
+Other map styles use Mapbox. Its services may process location, provider identifiers, map usage, and performance or diagnostic information to operate and improve the maps. Online map requests also include technical information such as an IP address. See [Mapbox's Privacy Policy](https://www.mapbox.com/legal/privacy) for details.
+
+Mappamory turns optional Mapbox location and usage telemetry off on first use and keeps your later choice. You can change this choice through the information button on a Mapbox map and manage location permission in iOS Settings. Your saved people, records, photos, and notes are not automatically uploaded to Mappamory servers.
 
 ## TestFlight Beta Testing
 
@@ -50,13 +56,13 @@ The developer may review this TestFlight feedback in App Store Connect to diagno
 
 ## Data Collection by the Developer
 
-Mappamory does not currently use third-party analytics SDKs, advertising SDKs, or developer-operated tracking systems.
+Mappamory does not use advertising SDKs or operate its own tracking system. Mapbox services are described above.
 
 The developer does not sell personal data.
 
 The developer does not use the app to track users across apps or websites owned by other companies.
 
-If future versions add accounts, cloud sync, analytics, crash reporting SDKs, or other network services, this Privacy Policy and the App Store privacy information will be updated before those features are released.
+If the app's data handling changes, this Privacy Policy and the App Store privacy information will be updated accordingly.
 
 ## Permissions
 
